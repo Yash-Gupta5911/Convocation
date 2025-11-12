@@ -3,4 +3,4 @@ python-dotenv==1.0.1
 supabase
 postgrest
 httpx
-Pillow  # (for image sanity checks if needed)
+Pillow  
